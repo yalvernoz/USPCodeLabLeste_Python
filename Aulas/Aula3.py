@@ -1,4 +1,4 @@
-pessoa = "Elvira"
+pessoa = "Serafim"
 dinheiro = 50.25
 print("Ola", pessoa, "voce tem", dinheiro, "reais")
 custo = 20 
