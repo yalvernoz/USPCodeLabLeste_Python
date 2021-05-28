@@ -1,0 +1,20 @@
+if:
+'''Condicional, caso o se seja satisfeito, 
+escrevemos abaixo oq deve ocorrer'''
+
+else:
+'''qnd sua condição não é satisfeita, você usa isso
+para dar as instruções do que fazer. 
+SÓ PODE SER USADO DPS DE IF'''
+
+elif:
+''' else mais prático (?)
+SÓ PODE SER USADO DPS DE IF'''
+
+'''OPERACOES LOGICAS
+Igual: ==
+Diferente: !=
+Maior: >
+Menor: <
+Maior igual: >=
+Menor igual: <='''
